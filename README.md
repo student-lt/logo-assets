@@ -2,7 +2,6 @@
 ---
 |ファイル名|説明|
 |:-|:-|
----
 |[white.svg](https://github.com/student-lt/logo-assets/blob/master/logo/svg/white.svg)|白背景用のロゴ|
 |[dark.svg](https://github.com/student-lt/logo-assets/blob/master/logo/svg/dark.svg)|黒背景用のロゴ|
 |[white-hash.svg](https://github.com/student-lt/logo-assets/blob/master/logo/svg/white-hash.svg)|白背景用の#アイコン|
